@@ -5,7 +5,6 @@
  */
 package studentlist;
 //Hello world....
-//Hello world my name is deep sagar aryal .. ..  .. . .. .  .. . .. . . . .. .
 /**
  *
  * @author srinivsi
